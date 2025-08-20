@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run create_dataset_gray.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/create_dataset_gray.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
